@@ -1,0 +1,26 @@
+.container{
+    /* border: 2px solid black; */
+    height: 50vh;
+    width: 70%;
+    margin-top: 10%;
+    margin-left: 20%;
+    font-size: 30px;
+}
+.section-1{
+    margin-top: 10%;
+    margin-left: 20%;
+}
+.section-2{
+    margin-top: 10%;
+    margin-left: 35%;
+}
+.section-2 button{
+    height: 50px;
+    width: 150px;
+    border: 2px solid transparent;
+    font-size: 20px;
+    border-radius: 50%;
+}
+
+
+
